@@ -4,7 +4,7 @@ var calculatorModule = (function(){
   var _memory = 0;
   var _total = 0;
   var calculator = {};
-  var maxLength = 30,
+  var maxLength = 30;
 
 
   // Validations

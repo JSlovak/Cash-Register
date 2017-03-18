@@ -12,6 +12,7 @@ h1 {
 #container {
   background-color: lightgray;
   border: 5px solid darkgray;
+  width: 750px;
   height: 500px;
   margin: 50px;
 
@@ -30,35 +31,28 @@ h1 {
 }
 
 #actions {
-  background-color: orange;
-  margin: 15px;
-}
-
-.actions {
-
-
-}
-
-#numbers {
-  background-color: white;
-  height: 350px;
-  margin: 15px;
-
-}
-
-.numbers{
-
+  background-color: red;
 
 }
 
 #operators {
-  background-color: blue;
-  height: 100px;
-  margin: 15px;
+  background-color: orange;
+
+ }
+
+.actionButtons {
+  font-size: 30;
+  border-color: black;
+
+
+  }
+
+.numberButtons{
+
 
 }
 
-.operators{
+.operatorButtons{
 
 
 }
