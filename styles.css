@@ -1,0 +1,64 @@
+﻿body {
+
+  background-image: url(http://www.clipartkid.com/images/531/raining-money-youtube-4DungS-clipart.jpg);
+
+}
+
+h1 {
+  text-align: center;
+
+ }
+
+#container {
+  background-color: lightgray;
+  border: 5px solid darkgray;
+  height: 500px;
+  margin: 50px;
+
+}
+
+#display {
+  background-color: white;
+  height: 100px;
+  margin: 15px;
+  font-family: arial;
+
+}
+
+#registerPad {
+  background-color: darkgray;
+}
+
+#actions {
+  background-color: orange;
+  margin: 15px;
+}
+
+.actions {
+
+
+}
+
+#numbers {
+  background-color: white;
+  height: 350px;
+  margin: 15px;
+
+}
+
+.numbers{
+
+
+}
+
+#operators {
+  background-color: blue;
+  height: 100px;
+  margin: 15px;
+
+}
+
+.operators{
+
+
+}
